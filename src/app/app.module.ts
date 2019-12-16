@@ -8,7 +8,6 @@ import { CommonModule } from '@angular/common';
 import { TransferHttpCacheModule } from '@nguniversal/common';
 import { HttpClientModule } from '@angular/common/http';
 import { NgtUniversalModule } from '@ng-toolkit/universal';
-import { MetaModule } from '@ngx-meta/core';
 
 @NgModule({
   declarations: [
